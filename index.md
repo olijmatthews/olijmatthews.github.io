@@ -3,5 +3,7 @@ layout: home
 title: Welcome
 ---
 
-# Welcome!
+# Home Page
+
+Something goes here.
 
